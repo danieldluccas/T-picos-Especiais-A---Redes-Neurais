@@ -1,1 +1,2 @@
-# T-picos-Especiais-A---Redes-Neurais
+# Tópicos Especiais A - Redes Neurais
+
